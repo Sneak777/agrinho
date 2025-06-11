@@ -12,8 +12,24 @@
         <nav>
             <ul>
                 <li><a href="#campo">Campo</a></li>
+                A sustentabilidade no campo é fundamental para a preservação da biodiversidade e produção de alimentos. Técnicas como a agricultura orgânica, rotação de culturas e uso de métodos integrados são essenciais para manter o solo fértil e os ecossistemas equilibrados.
+
+Importância da rotação de culturas.
+Impacto da agricultura orgânica.
+Uso racional da água nas lavouras.
                 <li><a href="#cidade">Cidade</a></li>
+                As cidades enfrentam grandes desafios relacionados à poluição e ao uso excessivo de recursos. Implementar práticas sustentáveis, como o transporte público eficiente e a coleta seletiva de lixo, é vital para melhorar a qualidade de vida urbana.
+
+Redução do uso de plásticos.
+Incentivo ao uso de bicicletas e transporte público.
+Desenvolvimento de áreas verdes e urbanas.
                 <li><a href="#praticas">Práticas Sustentáveis</a></li>
+                Aqui estão algumas práticas que podem ser adotadas tanto no campo quanto na cidade:
+
+Energia renovável: painéis solares e turbinas eólicas.
+Compostagem: aproveitamento de resíduos orgânicos.
+Plantio de árvores: contribuição para a redução do CO₂.
+Educação ambiental: conscientização da população sobre a importância da sustentabilidade.
             </ul>
         </nav>
     </header>
